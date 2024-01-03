@@ -1,7 +1,6 @@
 {
     "name": "Punt Nation",
     "symbol": "PUNT",
-    "image": "https://raw.githubusercontent.com/thedigitalgoat/first/main/falador.png",
-    "decimals": 6,
+     "decimals": 6,
     "description": "This is a test token for Punt Nation"
 }
